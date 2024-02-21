@@ -1,0 +1,8 @@
+501    BDT    950    JW Blue Lable(25ml)
+502    BDT    850    Maccallan 12 (35ml)
+503    BDT    550    Blended Scotch(30ml)
+504    BDT    950    Red Wine(30ml)
+505    BDT    450    Mint Water
+507    BDT    950    Champagne(25ml)
+508    BDT    600    Single Malt (30ml)
+509    BDT    305    Cold Drinks

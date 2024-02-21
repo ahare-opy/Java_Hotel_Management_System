@@ -1,0 +1,10 @@
+201    BDT    950.0    Wasabi Prawns with Tobiko
+202    BDT    850.0    Wok Fried Fragrant Chicken
+203    BDT    550.0    Crumbed Garfish Fillet
+204    BDT    950.0    T-Bone Steak
+205    BDT    450.0    Fish Thai Ching
+206    BDT    750.0    Grilled Chicken Fillet
+207    BDT    600.0    Casunut Salad
+208    BDT    760.0    Chicken Sizzling
+209    BDT    860.0    Peshawari Kacchi
+210    BDT    1550    Mutton Kacchi
